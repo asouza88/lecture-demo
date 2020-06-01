@@ -1,1 +1,1 @@
-# lecutredemo
+# lecture-demo

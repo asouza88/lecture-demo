@@ -2,11 +2,11 @@
 void
 super_print()
 {
-	printf("%s\n", "Hello World!");
+	printf("%s\n", "hello world!");
 }
 
 int
 main() 
 {
-	return 256;
+	return 0;
 }

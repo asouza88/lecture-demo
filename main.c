@@ -4,6 +4,8 @@
 int
 main(void** args, int argc)
 {
-    printf("%s\n", "Hello world!");
-    return 0;
+    while(1){
+        printf("%s\n", "Hello world!");
+        return 0;
+    }
 }

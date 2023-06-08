@@ -1,6 +1,6 @@
 public class Main{
     public static void main(String[] args) {
-        for(;;){
+        while(true){
             System.out.println("hello you");
         }
     }
